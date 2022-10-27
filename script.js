@@ -1,7 +1,7 @@
 let num = Math.floor(Math.random() * 2)
 
 // document.getElementById("sample").innerHTML = num;
-
+console.log(num);
 
 var a = document.createElement('a'); 
                   
