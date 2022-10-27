@@ -1,8 +1,9 @@
 let num = Math.floor(Math.random() * 2)
 
-document.getElementById("sample").innerHTML = num;
+// document.getElementById("sample").innerHTML = num;
 
- var a = document.createElement('a'); 
+
+var a = document.createElement('a'); 
                   
 var link = document.createTextNode("Click here for Google Form!");
   
@@ -16,4 +17,4 @@ if (num == 0) {
 }
 
 
-document.body.appendChild(a); 
+document.getElementById("random").appendChild(a); 

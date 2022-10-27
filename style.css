@@ -1,4 +1,21 @@
 html, body {
   height: 100%;
   width: 100%;
+  text-align: center;
+  background-color: #292b2c;
+  margin-top: 50px;
+}
+
+.random {
+  display: inline;
+  background-color: #69e2f0;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+img {
+  margin-top: 50px;
+  margin-left: -10px;
 }
