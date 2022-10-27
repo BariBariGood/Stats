@@ -11,9 +11,9 @@ a.appendChild(link);
 
 
 if (num == 0) {
-  a.href = "https://www.geeksforgeeks.org";
+  a.href = "https://forms.gle/Vem7nqxHd27bPwtp7";
 } else {
-  a.href = "https://www.youtube.com";
+  a.href = "https://forms.gle/jf4f4jCnK8jkEPsy5";
 }
 
 
